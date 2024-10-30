@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Memory Game
-//
-//  Created by Kyenret Yakubu Ayuba on 3/22/24.
-//
-
 import SwiftUI
 
 struct GrowingButton: ButtonStyle {
